@@ -11,7 +11,7 @@
 <!--Start Intro-->               
 <p align="left">I am now a Computer Science Student of KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK.  </p>
 
-- ✨ Just Collage Student.
+- ✨ Just College Student.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
