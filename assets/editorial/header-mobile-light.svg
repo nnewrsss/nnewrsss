@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="186" viewBox="0 0 420 186" role="img" aria-label="New. A clear mind. A curious eye. Bangkok, Thailand."><title>New. A clear mind. A curious eye. Bangkok, Thailand.</title><style>
+text{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,'Times New Roman',serif}.mono{font-family:'Courier New',monospace}
+
+@media(prefers-reduced-motion:reduce){.node,.rings{animation:none!important}}
+</style><text class="mono" x="0" y="17" fill="#60685e" font-size="9" letter-spacing="1.5">NEW / PERSONAL INDEX</text>
+<text class="mono" x="420" y="17" fill="#60685e" font-size="9" letter-spacing="1.5" text-anchor="end">BANGKOK, TH</text>
+<path d="M0 35H16" stroke="#60685e"/>
+<text class="serif" x="0" y="104" font-size="53" letter-spacing="-2.3" fill="#20231f">A clear mind.</text>
+<text class="serif" x="0" y="159" font-size="53" font-style="italic" letter-spacing="-2.3" fill="#20231f">A curious eye.</text></svg>

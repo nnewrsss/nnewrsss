@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="66" viewBox="0 0 820 66" role="img" aria-label="Less noise. More intention. New."><title>Less noise. More intention. New.</title><style>
+text{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,'Times New Roman',serif}.mono{font-family:'Courier New',monospace}
+
+@media(prefers-reduced-motion:reduce){.node,.rings{animation:none!important}}
+</style><text class="mono" x="0" y="41" font-size="11" letter-spacing="1" fill="#a4afa0">LESS NOISE. MORE INTENTION.</text>
+<path d="M250 37H730" stroke="#414c40"/>
+<text class="serif" x="820" y="48" font-style="italic" font-size="39" text-anchor="end" fill="#edf0e9">new.</text></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="268" viewBox="0 0 420 268" role="img" aria-label="Learning: computer science at KMUTNB. Making: ideas into projects. Exploring: beyond the familiar."><title>Learning: computer science at KMUTNB. Making: ideas into projects. Exploring: beyond the familiar.</title><style>
+text{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,'Times New Roman',serif}.mono{font-family:'Courier New',monospace}
+.node{animation:focus 12s linear infinite}.n2{animation-delay:-8s}.n3{animation-delay:-4s}@keyframes focus{0%,24%{fill:#7f8b4f}33%,100%{fill:#20231f}}
+@media(prefers-reduced-motion:reduce){.node,.rings{animation:none!important}}
+</style><path d="M20 18V250" stroke="#c7cdc4" fill="none"/><circle class="node n1" cx="20" cy="48" r="10" fill="#7f8b4f"/>
+<text class="mono" x="53" y="44" fill="#20231f" font-size="14" letter-spacing="1">01. LEARNING</text>
+<text x="53" y="69" fill="#60685e" font-size="16">Computer science / KMUTNB</text><circle class="node n2" cx="20" cy="131" r="6" fill="#20231f"/>
+<text class="mono" x="53" y="127" fill="#20231f" font-size="14" letter-spacing="1">02. MAKING</text>
+<text x="53" y="152" fill="#60685e" font-size="16">Ideas into projects</text><circle class="node n3" cx="20" cy="214" r="13" fill="#20231f"/>
+<text class="mono" x="53" y="210" fill="#20231f" font-size="14" letter-spacing="1">03. EXPLORING</text>
+<text x="53" y="235" fill="#60685e" font-size="16">Beyond the familiar</text></svg>
